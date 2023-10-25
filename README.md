@@ -16,7 +16,7 @@
 
 
 <!--   my-ticker -->    
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=002FA7&center=true&random=false&width=435&lines=Hi+there!+I'm+Shu+Li.;Welcome+to+My+Profile!;Over+2+Years+Programming+Experience.;Keep+Learning+New+Techs.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=002FA7&center=true&random=false&width=435&lines=Hi+there!+I'm+Shu+Li.;Welcome+to+My+Profile!;Over+2+Years+Programming+Experience;Keep+Learning+New+Techs)](https://git.io/typing-svg)
 
 
 <!--   my-kaggle     
