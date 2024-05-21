@@ -1,4 +1,5 @@
-![](assets/Bottom_up.svg)
+<img src="resources/image1.png" alt="Welcome to my profile!" width="1100" height="180">
+
 
 <!--   my-icons -->
 <p align="center">
@@ -10,10 +11,14 @@
     <img src="https://visitor-badge.laobi.icu/badge?page_id=Raitozero.Raitozero" alt="visitors"/>   
 </p>
 
-<!--   my-header-img -->
-![](./src/header_.png)
-<a href="https://www.python.org/"><img src="https://github.com/Raitozero/Raitozero/blob/main/ee80339603d79153-sticker.png" align="left" height="80" width="80" ></a>
 
+<!-- 
+<!-- my-header
+
+![](./src/header_.png)
+<a href="https://www.python.org/"><img src="https://github.com/Raitozero/Raitozero/blob/main/ee80339603d79153-sticker.png" align="left" height="80" width="80" ></a> 
+
+-->
 
 <!--   my-ticker -->    
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=800&color=002FA7&center=true&random=false&width=435&lines=Hi+there!+I'm+Shu+Li.;Welcome+to+My+Profile!;Over+2+Years+Programming+Experience;Keep+Learning+New+Techs)](https://git.io/typing-svg)
